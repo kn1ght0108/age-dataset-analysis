@@ -1,2 +1,3 @@
-# age-dataset-analysis
-The age dataset in this repository is imported from https://www.kaggle.com/datasets/imoore/age-dataset
+# Age dataset analysis and modelling
+## Citation
+Annamoradnejad, Issa; Annamoradnejad, Rahimberdi (2022), “Age dataset: A structured general-purpose dataset on life, work, and death of 1.22 million distinguished people”, In Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM), doi: 10.36190/2022.82
